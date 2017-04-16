@@ -1,4 +1,5 @@
-﻿#a heavily edited version of "Threat System" by Hourglass
+#a heavily edited version of "Threat System" by Euphoria
+#made by Artlis
 $imported ||= {}
 $imported["HourglassThreat"] = true
 #┌──────────────────────────────────────────────────────────────────────────────
